@@ -1,4 +1,3 @@
-# chunk_experiment.py（完整版，带答案打印）
 from langchain_ollama import OllamaLLM, OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
