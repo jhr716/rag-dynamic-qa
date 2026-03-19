@@ -1,4 +1,3 @@
-# rag_dynamic.py - 极简稳定版
 from langchain_ollama import OllamaLLM, OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
