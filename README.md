@@ -1,5 +1,3 @@
-📝 README.md 完整内容（可直接复制）
-markdown
 # 📚 动态RAG问答系统
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
