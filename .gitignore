@@ -1,0 +1,23 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+env/
+ENV/
+rag_project/
+
+# 向量数据库（这个要保留，但不能上传！）
+chroma_db/
+chroma_db_*/
+
+# IDE配置
+.vscode/
+.idea/
+
+# 其他
+.DS_Store
+*.log
