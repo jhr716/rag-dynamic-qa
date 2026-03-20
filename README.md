@@ -114,4 +114,4 @@ A: 确保先安装Gradio：pip install gradio
 混合检索策略（同时用多种参数）
 
 📄 许可证
-MIT License © 2024 JHR716
+MIT License © 2026 JHR716
